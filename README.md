@@ -1,2 +1,2 @@
 # Plots
-A dumping ground for various plotting code.
+A dumping ground for various plotting codes.
